@@ -22,14 +22,19 @@ TMP36 (Temperature Sensor)
 
 
 Processor Used:
+
 Arduino Uno R3
+
 ![image](https://github.com/user-attachments/assets/a2d92c49-0969-40fb-8e64-4be9a6cd0627)
 
 
 LCD Controller:
 
 Breadboard
+
+
 ![image](https://github.com/user-attachments/assets/6f52253d-566f-4f2b-824e-233440d468e9)
+
 
 
 Functioning: if(MOTION DETECTED) {
